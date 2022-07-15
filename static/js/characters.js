@@ -28,58 +28,58 @@ class Personaje {
     }
   }
 
-let Aether = new Personaje("1", "Aether", "/PickAndBans/static/media/Long/Aether_T1.png", "/PickAndBans/static/media/Long/Aether_T2.png");
-let Albedo = new Personaje("2", "Albedo", "/PickAndBans/static/media/Long/Albedo_T1.png", "/PickAndBans/static/media/Long/Albedo_T2.png");
-let Aloy = new Personaje("3", "Aloy", "/PickAndBans/static/media/Long/Aloy_T1.png", "/PickAndBans/static/media/Long/Aloy_T2.png");
-let Amber = new Personaje("4", "Amber", "/PickAndBans/static/media/Long/Amber_T1.png", "/PickAndBans/static/media/Long/Amber_T2.png");
-let Ayaka = new Personaje("5", "Ayaka", "/PickAndBans/static/media/Long/Ayaka_T1.png", "/PickAndBans/static/media/Long/Ayaka_T2.png");
-let Ayato = new Personaje("6", "Ayato", "/PickAndBans/static/media/Long/Ayato_T1.png", "/PickAndBans/static/media/Long/Ayato_T2.png");
-let Barbara = new Personaje("7", "Barbara", "/PickAndBans/static/media/Long/Barbara_T1.png", "/PickAndBans/static/media/Long/Barbara_T2.png");
-let Beidou = new Personaje("8", "Beidou", "/PickAndBans/static/media/Long/Beidou_T1.png", "/PickAndBans/static/media/Long/Beidou_T2.png");
-let Bennet = new Personaje("9", "Bennet", "/PickAndBans/static/media/Long/Bennet_T1.png", "/PickAndBans/static/media/Long/Bennet_T2.png");
-let Chongyun = new Personaje("10", "Chongyun", "/PickAndBans/static/media/Long/Chongyun_T1.png", "/PickAndBans/static/media/Long/Chongyun_T2.png");
-let Diluc = new Personaje("11", "Diluc", "/PickAndBans/static/media/Long/Diluc_T1.png", "/PickAndBans/static/media/Long/Diluc_T2.png");
-let Diona = new Personaje("12", "Diona", "/PickAndBans/static/media/Long/Diona_T1.png", "/PickAndBans/static/media/Long/Diona_T2.png");
-let Eula = new Personaje("13", "Eula", "/PickAndBans/static/media/Long/Eula_T1.png", "/PickAndBans/static/media/Long/Eula_T2.png");
-let Fischl = new Personaje("14", "Fischl", "/PickAndBans/static/media/Long/Fischl_T1.png", "/PickAndBans/static/media/Long/Fischl_T2.png");
-let Ganyu = new Personaje("15", "Ganyu", "/PickAndBans/static/media/Long/Ganyu_T1.png", "/PickAndBans/static/media/Long/Ganyu_T2.png");
-let Gorou = new Personaje("16", "Gorou", "/PickAndBans/static/media/Long/Gorou_T1.png", "/PickAndBans/static/media/Long/Gorou_T2.png");
-let Hu_Tao = new Personaje("17", "Hu Tao", "/PickAndBans/static/media/Long/Hu Tao_T1.png", "/PickAndBans/static/media/Long/Hu Tao_T2.png");
-let Itto = new Personaje("18", "Itto", "/PickAndBans/static/media/Long/Itto_T1.png", "/PickAndBans/static/media/Long/Itto_T2.png");
-let Jean = new Personaje("19", "Jean", "/PickAndBans/static/media/Long/Jean_T1.png", "/PickAndBans/static/media/Long/Jean_T2.png");
-let Kaeya = new Personaje("20", "Kaeya", "/PickAndBans/static/media/Long/Kaeya_T1.png", "/PickAndBans/static/media/Long/Kaeya_T2.png");
-let Kazuha = new Personaje("21", "Kazuha", "/PickAndBans/static/media/Long/Kazuha_T1.png", "/PickAndBans/static/media/Long/Kazuha_T2.png");
-let Keqing = new Personaje("22", "Keqing", "/PickAndBans/static/media/Long/Keqing_T1.png", "/PickAndBans/static/media/Long/Keqing_T2.png");
-let Klee = new Personaje("23", "Klee", "/PickAndBans/static/media/Long/Klee_T1.png", "/PickAndBans/static/media/Long/Klee_T2.png");
-let Kokomi = new Personaje("24", "Kokomi", "/PickAndBans/static/media/Long/Kokomi_T1.png", "/PickAndBans/static/media/Long/Kokomi_T2.png");
-let Kuki = new Personaje("25", "Kuki", "/PickAndBans/static/media/Long/Kuki_T1.png", "/PickAndBans/static/media/Long/Kuki_T2.png");
-let Lisa = new Personaje("26", "Lisa", "/PickAndBans/static/media/Long/Lisa_T1.png", "/PickAndBans/static/media/Long/Lisa_T2.png");
-let Lumine = new Personaje("27", "Lumine", "/PickAndBans/static/media/Long/Lumine_T1.png", "/PickAndBans/static/media/Long/Lumine_T2.png");
-let Mona = new Personaje("28", "Mona", "/PickAndBans/static/media/Long/Mona_T1.png", "/PickAndBans/static/media/Long/Mona_T2.png");
-let Ningguang = new Personaje("29", "Ningguang", "/PickAndBans/static/media/Long/Ningguang_T1.png", "/PickAndBans/static/media/Long/Ningguang_T2.png");
-let Noelle = new Personaje("30", "Noelle", "/PickAndBans/static/media/Long/Noelle_T1.png", "/PickAndBans/static/media/Long/Noelle_T2.png");
-let Qiqi = new Personaje("31", "Qiqi", "/PickAndBans/static/media/Long/Qiqi_T1.png", "/PickAndBans/static/media/Long/Qiqi_T2.png");
-let Razor = new Personaje("32", "Razor", "/PickAndBans/static/media/Long/Razor_T1.png", "/PickAndBans/static/media/Long/Razor_T2.png");
-let Rosaria = new Personaje("33", "Rosaria", "/PickAndBans/static/media/Long/Rosaria_T1.png", "/PickAndBans/static/media/Long/Rosaria_T2.png");
-let Sacarosa = new Personaje("34", "Sacarosa", "/PickAndBans/static/media/Long/Sacarosa_T1.png", "/PickAndBans/static/media/Long/Sacarosa_T2.png");
-let Sara = new Personaje("35", "Sara", "/PickAndBans/static/media/Long/Sara_T1.png", "/PickAndBans/static/media/Long/Sara_T2.png");
-let Sayu = new Personaje("36", "Sayu", "/PickAndBans/static/media/Long/Sayu_T1.png", "/PickAndBans/static/media/Long/Sayu_T2.png");
-let Shenhe = new Personaje("37", "Shenhe", "/PickAndBans/static/media/Long/Shenhe_T1.png", "/PickAndBans/static/media/Long/Shenhe_T2.png");
-let Shogun = new Personaje("38", "Shogun", "/PickAndBans/static/media/Long/Shogun_T1.png", "/PickAndBans/static/media/Long/Shogun_T2.png");
-let Tartaglia = new Personaje("39", "Tartaglia", "/PickAndBans/static/media/Long/Tartaglia_T1.png", "/PickAndBans/static/media/Long/Tartaglia_T2.png");
-let Thoma = new Personaje("40", "Thoma", "/PickAndBans/static/media/Long/Thoma_T1.png", "/PickAndBans/static/media/Long/Thoma_T2.png");
-let Venti = new Personaje("41", "Venti", "/PickAndBans/static/media/Long/Venti_T1.png", "/PickAndBans/static/media/Long/Venti_T2.png");
-let Xiangling = new Personaje("42", "Xiangling", "/PickAndBans/static/media/Long/Xiangling_T1.png", "/PickAndBans/static/media/Long/Xiangling_T2.png");
-let Xiao = new Personaje("43", "Xiao", "/PickAndBans/static/media/Long/Xiao_T1.png", "/PickAndBans/static/media/Long/Xiao_T2.png");
-let Xinqiu = new Personaje("44", "Xinqiu", "/PickAndBans/static/media/Long/Xinqiu_T1.png", "/PickAndBans/static/media/Long/Xinqiu_T2.png");
-let Xinyan = new Personaje("45", "Xinyan", "/PickAndBans/static/media/Long/Xinyan_T1.png", "/PickAndBans/static/media/Long/Xinyan_T2.png");
-let Yae = new Personaje("46", "Yae", "/PickAndBans/static/media/Long/Yae_T1.png", "/PickAndBans/static/media/Long/Yae_T2.png");
-let Yanfei = new Personaje("47", "Yanfei", "/PickAndBans/static/media/Long/Yanfei_T1.png", "/PickAndBans/static/media/Long/Yanfei_T2.png");
-let Yelan = new Personaje("48", "Yelan", "/PickAndBans/static/media/Long/Yelan_T1.png", "/PickAndBans/static/media/Long/Yelan_T2.png");
-let Yoimiya = new Personaje("49", "Yoimiya", "/PickAndBans/static/media/Long/Yoimiya_T1.png", "/PickAndBans/static/media/Long/Yoimiya_T2.png");
-let Yunjin = new Personaje("50", "Yunjin", "/PickAndBans/static/media/Long/Yunjin_T1.png", "/PickAndBans/static/media/Long/Yunjin_T2.png");
-let Zhongli = new Personaje("51", "Zhongli", "/PickAndBans/static/media/Long/Zhongli_T1.png", "/PickAndBans/static/media/Long/Zhongli_T2.png");
-let Heizou = new Personaje("52", "Heizou", "/PickAndBans/static/media/Long/Heizou_T1.png", "/PickAndBans/static/media/Long/Heizou_T2.png");
+let Aether = new Personaje("1", "Aether", "PickAndBans/static/media/Long/Aether_T1.png", "PickAndBans/static/media/Long/Aether_T2.png");
+let Albedo = new Personaje("2", "Albedo", "PickAndBans/static/media/Long/Albedo_T1.png", "PickAndBans/static/media/Long/Albedo_T2.png");
+let Aloy = new Personaje("3", "Aloy", "PickAndBans/static/media/Long/Aloy_T1.png", "PickAndBans/static/media/Long/Aloy_T2.png");
+let Amber = new Personaje("4", "Amber", "PickAndBans/static/media/Long/Amber_T1.png", "PickAndBans/static/media/Long/Amber_T2.png");
+let Ayaka = new Personaje("5", "Ayaka", "PickAndBans/static/media/Long/Ayaka_T1.png", "PickAndBans/static/media/Long/Ayaka_T2.png");
+let Ayato = new Personaje("6", "Ayato", "PickAndBans/static/media/Long/Ayato_T1.png", "PickAndBans/static/media/Long/Ayato_T2.png");
+let Barbara = new Personaje("7", "Barbara", "PickAndBans/static/media/Long/Barbara_T1.png", "PickAndBans/static/media/Long/Barbara_T2.png");
+let Beidou = new Personaje("8", "Beidou", "PickAndBans/static/media/Long/Beidou_T1.png", "PickAndBans/static/media/Long/Beidou_T2.png");
+let Bennet = new Personaje("9", "Bennet", "PickAndBans/static/media/Long/Bennet_T1.png", "PickAndBans/static/media/Long/Bennet_T2.png");
+let Chongyun = new Personaje("10", "Chongyun", "PickAndBans/static/media/Long/Chongyun_T1.png", "PickAndBans/static/media/Long/Chongyun_T2.png");
+let Diluc = new Personaje("11", "Diluc", "PickAndBans/static/media/Long/Diluc_T1.png", "PickAndBans/static/media/Long/Diluc_T2.png");
+let Diona = new Personaje("12", "Diona", "PickAndBans/static/media/Long/Diona_T1.png", "PickAndBans/static/media/Long/Diona_T2.png");
+let Eula = new Personaje("13", "Eula", "PickAndBans/static/media/Long/Eula_T1.png", "PickAndBans/static/media/Long/Eula_T2.png");
+let Fischl = new Personaje("14", "Fischl", "PickAndBans/static/media/Long/Fischl_T1.png", "PickAndBans/static/media/Long/Fischl_T2.png");
+let Ganyu = new Personaje("15", "Ganyu", "PickAndBans/static/media/Long/Ganyu_T1.png", "PickAndBans/static/media/Long/Ganyu_T2.png");
+let Gorou = new Personaje("16", "Gorou", "PickAndBans/static/media/Long/Gorou_T1.png", "PickAndBans/static/media/Long/Gorou_T2.png");
+let Hu_Tao = new Personaje("17", "Hu Tao", "PickAndBans/static/media/Long/Hu Tao_T1.png", "PickAndBans/static/media/Long/Hu Tao_T2.png");
+let Itto = new Personaje("18", "Itto", "PickAndBans/static/media/Long/Itto_T1.png", "PickAndBans/static/media/Long/Itto_T2.png");
+let Jean = new Personaje("19", "Jean", "PickAndBans/static/media/Long/Jean_T1.png", "PickAndBans/static/media/Long/Jean_T2.png");
+let Kaeya = new Personaje("20", "Kaeya", "PickAndBans/static/media/Long/Kaeya_T1.png", "PickAndBans/static/media/Long/Kaeya_T2.png");
+let Kazuha = new Personaje("21", "Kazuha", "PickAndBans/static/media/Long/Kazuha_T1.png", "PickAndBans/static/media/Long/Kazuha_T2.png");
+let Keqing = new Personaje("22", "Keqing", "PickAndBans/static/media/Long/Keqing_T1.png", "PickAndBans/static/media/Long/Keqing_T2.png");
+let Klee = new Personaje("23", "Klee", "PickAndBans/static/media/Long/Klee_T1.png", "PickAndBans/static/media/Long/Klee_T2.png");
+let Kokomi = new Personaje("24", "Kokomi", "PickAndBans/static/media/Long/Kokomi_T1.png", "PickAndBans/static/media/Long/Kokomi_T2.png");
+let Kuki = new Personaje("25", "Kuki", "PickAndBans/static/media/Long/Kuki_T1.png", "PickAndBans/static/media/Long/Kuki_T2.png");
+let Lisa = new Personaje("26", "Lisa", "PickAndBans/static/media/Long/Lisa_T1.png", "PickAndBans/static/media/Long/Lisa_T2.png");
+let Lumine = new Personaje("27", "Lumine", "PickAndBans/static/media/Long/Lumine_T1.png", "PickAndBans/static/media/Long/Lumine_T2.png");
+let Mona = new Personaje("28", "Mona", "PickAndBans/static/media/Long/Mona_T1.png", "PickAndBans/static/media/Long/Mona_T2.png");
+let Ningguang = new Personaje("29", "Ningguang", "PickAndBans/static/media/Long/Ningguang_T1.png", "PickAndBans/static/media/Long/Ningguang_T2.png");
+let Noelle = new Personaje("30", "Noelle", "PickAndBans/static/media/Long/Noelle_T1.png", "PickAndBans/static/media/Long/Noelle_T2.png");
+let Qiqi = new Personaje("31", "Qiqi", "PickAndBans/static/media/Long/Qiqi_T1.png", "PickAndBans/static/media/Long/Qiqi_T2.png");
+let Razor = new Personaje("32", "Razor", "PickAndBans/static/media/Long/Razor_T1.png", "PickAndBans/static/media/Long/Razor_T2.png");
+let Rosaria = new Personaje("33", "Rosaria", "PickAndBans/static/media/Long/Rosaria_T1.png", "PickAndBans/static/media/Long/Rosaria_T2.png");
+let Sacarosa = new Personaje("34", "Sacarosa", "PickAndBans/static/media/Long/Sacarosa_T1.png", "PickAndBans/static/media/Long/Sacarosa_T2.png");
+let Sara = new Personaje("35", "Sara", "PickAndBans/static/media/Long/Sara_T1.png", "PickAndBans/static/media/Long/Sara_T2.png");
+let Sayu = new Personaje("36", "Sayu", "PickAndBans/static/media/Long/Sayu_T1.png", "PickAndBans/static/media/Long/Sayu_T2.png");
+let Shenhe = new Personaje("37", "Shenhe", "PickAndBans/static/media/Long/Shenhe_T1.png", "PickAndBans/static/media/Long/Shenhe_T2.png");
+let Shogun = new Personaje("38", "Shogun", "PickAndBans/static/media/Long/Shogun_T1.png", "PickAndBans/static/media/Long/Shogun_T2.png");
+let Tartaglia = new Personaje("39", "Tartaglia", "PickAndBans/static/media/Long/Tartaglia_T1.png", "PickAndBans/static/media/Long/Tartaglia_T2.png");
+let Thoma = new Personaje("40", "Thoma", "PickAndBans/static/media/Long/Thoma_T1.png", "PickAndBans/static/media/Long/Thoma_T2.png");
+let Venti = new Personaje("41", "Venti", "PickAndBans/static/media/Long/Venti_T1.png", "PickAndBans/static/media/Long/Venti_T2.png");
+let Xiangling = new Personaje("42", "Xiangling", "PickAndBans/static/media/Long/Xiangling_T1.png", "PickAndBans/static/media/Long/Xiangling_T2.png");
+let Xiao = new Personaje("43", "Xiao", "PickAndBans/static/media/Long/Xiao_T1.png", "PickAndBans/static/media/Long/Xiao_T2.png");
+let Xinqiu = new Personaje("44", "Xinqiu", "PickAndBans/static/media/Long/Xinqiu_T1.png", "PickAndBans/static/media/Long/Xinqiu_T2.png");
+let Xinyan = new Personaje("45", "Xinyan", "PickAndBans/static/media/Long/Xinyan_T1.png", "PickAndBans/static/media/Long/Xinyan_T2.png");
+let Yae = new Personaje("46", "Yae", "PickAndBans/static/media/Long/Yae_T1.png", "PickAndBans/static/media/Long/Yae_T2.png");
+let Yanfei = new Personaje("47", "Yanfei", "PickAndBans/static/media/Long/Yanfei_T1.png", "PickAndBans/static/media/Long/Yanfei_T2.png");
+let Yelan = new Personaje("48", "Yelan", "PickAndBans/static/media/Long/Yelan_T1.png", "PickAndBans/static/media/Long/Yelan_T2.png");
+let Yoimiya = new Personaje("49", "Yoimiya", "PickAndBans/static/media/Long/Yoimiya_T1.png", "PickAndBans/static/media/Long/Yoimiya_T2.png");
+let Yunjin = new Personaje("50", "Yunjin", "PickAndBans/static/media/Long/Yunjin_T1.png", "PickAndBans/static/media/Long/Yunjin_T2.png");
+let Zhongli = new Personaje("51", "Zhongli", "PickAndBans/static/media/Long/Zhongli_T1.png", "PickAndBans/static/media/Long/Zhongli_T2.png");
+let Heizou = new Personaje("52", "Heizou", "PickAndBans/static/media/Long/Heizou_T1.png", "PickAndBans/static/media/Long/Heizou_T2.png");
 let Placeholder = new Personaje(53, "", "", "");
 //Sets de Bans, exclusivos y generales
 // Create Sets
@@ -595,13 +595,13 @@ letters.add(c);
 /*const Personaje = {
     id: 1,
     name: "Ayaka",
-    image1: "/PickAndBans/static/media/Long/AyakaT1.png",
-    image2: "/PickAndBans/static/media/Long/AyakaT2",
+    image1: "PickAndBans/static/media/Long/AyakaT1.png",
+    image2: "PickAndBans/static/media/Long/AyakaT2",
   };
 
 const Personaje = {
     id: 1,
     name: "Ayaka",
-    image1: "/PickAndBans/static/media/Long/AyakaT1.png",
-    image2: "/PickAndBans/static/media/Long/AyakaT2",
+    image1: "PickAndBans/static/media/Long/AyakaT1.png",
+    image2: "PickAndBans/static/media/Long/AyakaT2",
   };*/
