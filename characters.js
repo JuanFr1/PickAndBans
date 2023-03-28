@@ -1,5 +1,5 @@
 //Name change
-let person1 = prompt("Please enter your name", "Jugador 1");
+/*let person1 = prompt("Please enter your name", "Jugador 1");
 let text;
 if (person1 == null || person1 == "") {
   text = "User cancelled the prompt.";
@@ -17,7 +17,7 @@ if (person1 == null || person2 == "") {
   y=document.getElementById("equipo2");  // Find the elements
   y.textContent = person2;
 }
-
+*/
 
 class Personaje {
     constructor(id, name, img, img2) {
@@ -80,7 +80,20 @@ let Yoimiya = new Personaje("49", "Yoimiya", "media/Long/Yoimiya_T1.png", "media
 let Yunjin = new Personaje("50", "Yunjin", "media/Long/Yunjin_T1.png", "media/Long/Yunjin_T2.png");
 let Zhongli = new Personaje("51", "Zhongli", "media/Long/Zhongli_T1.png", "media/Long/Zhongli_T2.png");
 let Heizou = new Personaje("52", "Heizou", "media/Long/Heizou_T1.png", "media/Long/Heizou_T2.png");
-let Placeholder = new Personaje(53, "", "", "");
+let Al_Haitam = new Personaje("53", "Al Haitam", "media/Long/Al Haitam_T1.png", "media/Long/Al Haitam_T2.png");
+let Candace = new Personaje("54", "Candace", "media/Long/Candace_T1.png", "media/Long/Candace_T2.png");
+let Cyno = new Personaje("55", "Cyno", "media/Long/Cyno_T1.png", "media/Long/Cyno_T2.png");
+let Dehya = new Personaje("56", "Dehya", "media/Long/Dehya_T1.png", "media/Long/Dehya_T2.png");
+let Faruzan = new Personaje("57", "Faruzan", "media/Long/Faruzan_T1.png", "media/Long/Faruzan_T2.png");
+let Collei = new Personaje("58", "Collei", "media/Long/Collei_T1.png", "media/Long/Collei_T2.png");
+let Dori = new Personaje("59", "Dori", "media/Long/Dori_T1.png", "media/Long/Dori_T2.png");
+let Tighnari = new Personaje("60", "Tighnari", "media/Long/Tighnari_T1.png", "media/Long/Tighnari_T2.png");
+let Layla = new Personaje("61", "Layla", "media/Long/Layla_T1.png", "media/Long/Layla_T2.png");
+let Nahida = new Personaje("62", "Nahida", "media/Long/Nahida_T1.png", "media/Long/Nahida_T2.png");
+let Nilou = new Personaje("63", "Nilou", "media/Long/Nilou_T1.png", "media/Long/Nilou_T2.png");
+let Wanderer = new Personaje("64", "Wanderer", "media/Long/Wanderer_T1.png", "media/Long/Wanderer_T2.png");
+let Yao_Yao = new Personaje("65", "Yao Yao", "media/Long/Yao Yao_T1.png", "media/Long/Yao Yao_T2.png");
+let Mika = new Personaje("66", "Mika", "media/Long/Mika_T1.png", "media/Long/Mika_T2.png");
 //Sets de Bans, exclusivos y generales
 // Create Sets
 const bans = new Set();
@@ -131,7 +144,22 @@ Hu_Tao, Itto,
   Yoimiya,
   Yunjin,
   Zhongli,
-  Heizou]
+  Heizou,
+  Al_Haitam,
+  Candace,
+  Cyno,
+  Dehya,
+  Faruzan,
+  Collei,
+  Dori,
+  Tighnari,
+  Layla,
+  Nahida,
+  Nilou,
+  Wanderer,
+  Yao_Yao,
+  Mika
+]
 
 let actual = null;
 let previus = null;
